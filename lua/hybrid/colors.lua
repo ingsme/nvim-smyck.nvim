@@ -4,36 +4,36 @@ local M = {}
 
 -- stylua: ignore start
 M.palette = {
-    bright_black    = "#373b41",
+    bright_black    = "#5D5D5D",
     black           = "#1d1f21",
     dull_black      = "#151718",
 
-    bright_white    = "#eaeaea",
-    white           = "#c5c8c6",
+    bright_white    = "#F7F7F7",
+    white           = "#B0B0B0",
     dull_white      = "#707880",
 
-    bright_red      = "#d54e53",
-    red             = "#cc6666",
+    bright_red      = "#E09690",
+    red             = "#C75646",
     dull_red        = "#a54242",
 
-    bright_green    = "#b9ca4a",
-    green           = "#b5bd68",
+    bright_green    = "#CDEE69",
+    green           = "#8EB33B",
     dull_green      = "#8c9440",
 
-    bright_yellow   = "#e7c547",
-    yellow          = "#f0c674",
+    bright_yellow   = "#FFE377",
+    yellow          = "#D0B03C",
     dull_yellow     = "#de935f",
 
-    bright_blue     = "#7aa6da",
-    blue            = "#81a2be",
+    bright_blue     = "#9CD9F0",
+    blue            = "#4E90A7",
     dull_blue       = "#5f819d",
 
-    bright_magenta  = "#c397d8",
-    magenta         = "#b294bb",
+    bright_magenta  = "#FBB1F9",
+    magenta         = "#C8A0D1",
     dull_magenta    = "#85678f",
 
-    bright_cyan     = "#70c0b1",
-    cyan            = "#8abeb7",
+    bright_cyan     = "#77DFD8",
+    cyan            = "#218693",
     dull_cyan       = "#5e8d87",
 }
 -- stylua: ignore end
