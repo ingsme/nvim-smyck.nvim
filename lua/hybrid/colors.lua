@@ -21,11 +21,11 @@ M.palette = {
   dull_green      = "#8c9440",
 
   bright_yellow   = "#e7c547",
-  yellow          = "#FFE377",
+  yellow          = "#F6DC69",
   dull_yellow     = "#de935f",
 
   bright_blue     = "#7aa6da",
-  blue            = "#9CD9F0",
+  blue            = "#96D9F1",
   dull_blue       = "#5f819d",
 
   bright_magenta  = "#c397d8",
