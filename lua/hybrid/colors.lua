@@ -10,7 +10,7 @@ M.palette = {
 
   bright_white    = "#eaeaea",
   white           = "#F7F7F7",
-  dull_white      = "#707880",
+  dull_white      = "#707070",
 
   bright_red      = "#d54e53",
   red             = "#E09690",

@@ -86,7 +86,7 @@ function M.setup(opts)
         Comment = { fg = c.comment, italic = opts.italic.comments },
 
         Constant = { fg = c.dull_yellow },
-        String = { fg = c.green, italic = opts.italic.strings },
+        String = { fg = c.yellow, italic = opts.italic.strings },
         Character = { fg = c.green },
         -- Number = {},
         -- Boolean = {},
