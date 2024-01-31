@@ -4,7 +4,7 @@ local M = {}
 
 -- stylua: ignore start
 M.palette = {
-  bright_black    = "#373b41",
+  bright_black    = "#5D5D5D",
   black           = "#1d1f21",
   dull_black      = "#151718",
 
