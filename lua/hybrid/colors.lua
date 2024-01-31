@@ -95,7 +95,8 @@ function M.setup()
       title       = p.blue,
     },
 
-    line            = utils.darken(p.bright_black, 0.4, p.black),
+    -- line            = utils.darken(p.bright_black, 0.4, p.black),
+    line            = p.bright_black,
     comment         = p.dull_white,
     selection       = p.bright_black,
     match           = p.blue,
